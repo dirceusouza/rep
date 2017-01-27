@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0,#EXTINF:-1,Discovery ID
+rtsp://173.193.20.150:1935/mtv/105
+#EXTINF:0,#EXTINF:-1,Discovery Turbo
+rtsp://173.193.20.150:1935/mtv/92
+#EXTINF:0,#EXTINF:-1,DISCOVERY TURBO HD
+rtsp://173.193.20.150:1935/mtv/92hd
+#EXTINF:0,#EXTINF:-1,Discovery Science
+rtsp://173.193.20.136:1935/mtv/130
+#EXTINF:0,#EXTINF:-1,Discovery Science HD
+rtsp://173.193.20.136:1935/mtv/130hd
+#EXTINF:0,#EXTINF:-1,DISC. SCIENCE
+http://212.33.237.113:8047
+#EXTINF:0,#EXTINF:-1,Discovery HD Theater
+rtsp://173.193.20.136:1935/mtv/discohd
